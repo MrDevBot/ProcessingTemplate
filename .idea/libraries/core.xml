@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
